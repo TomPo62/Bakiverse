@@ -1,15 +1,5 @@
 # 💚 Bakiverse - Charte de Tarification
 
-<style>
-  body { font-family: Arial, sans-serif; background: #fff; color: #000; }
-  h1, h2, h3 { color: #16a34a; }
-  table { width: 100%; border-collapse: collapse; margin: 20px 0; }
-  th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
-  th { background: #16a34a; color: #fff; }
-  tr:nth-child(even) { background: #f9f9f9; }
-  blockquote { border-left: 4px solid #16a34a; padding: 10px; font-style: italic; background: #f3f3f3; }
-</style>
-
 ## 🚀 Introduction
 Bakiverse est une plateforme spécialisée dans la création et l'hébergement de solutions digitales sur mesure. Nous proposons divers services adaptés aux besoins des entreprises et entrepreneurs souhaitant une présence en ligne performante.
 
